@@ -1,10 +1,10 @@
 # Slapik Olga
 ## Contacts
 ***
-* Location: Lida, Belarus
-* Email: slapikol4ik@gmail.com
-* GitHub: [ol4ik88](https://github.com/Ol4ik88)
-* Phone: +375257834386
+* **Location:** Lida, Belarus
+* **Email:** slapikol4ik@gmail.com
+* **GitHub:** [ol4ik88](https://github.com/Ol4ik88)
+* **Phone:** +375257834386
 ## About Me
 ***
 I am 33 years old. I work as a teacher of information technology and special disciplines  at a college. I like to develop and improve. But after 10 years of working in college, I realized that the scope of the educational process does not allow me to develop. That's why I'm here. My goal is to become a sought-after specialist in the field of frontend development.
