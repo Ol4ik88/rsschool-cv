@@ -3,7 +3,7 @@
 ***
 * Location: Lida, Belarus
 * Email: slapikol4ik@gmail.com
-* GitHub: ol4ik88
+* GitHub: [ol4ik88](https://github.com/Ol4ik88)
 * Phone: +375257834386
 ## About Me
 ***
@@ -33,9 +33,9 @@ function nicknameGenerator(name){
 * REPUBLICAN INSTITUTE FOR VOCATIONAL EDUCATION
 2012-2014
 * Courses
-    + HTML for JS dev
-    + Java Script for beginners. Webdav from scratch. Alex Lushchenko
-    + video lessons from Freelancer for life
+    + [HTML for JS dev](https://itgid.info/course/html)
+    + [Java Script for beginners](https://www.youtube.com/c/itgid)
+    + [video lessons from Freelancer for life](https://www.youtube.com/c/FreelancerLifeStyle)
 * Books
     + Head First HTML and CSS Freeman E., Robson E.
     + Head First JavaScript Programming Freeman E., Robson E.
